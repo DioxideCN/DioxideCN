@@ -5,11 +5,11 @@
   ### About me
   
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-  <div style="display:flex;text-align:left;">
-    <p>&emsp;&emsp;Well, nice to see you I'm Dioxide.CN, an ordinary java software engineer.</p>
-    <p>&emsp;&emsp;I have been focusing on Spring Framework development, android development and SpringCloud technologies for nearly 3 years.</p>
-    <p>&emsp;&emsp;In my free time, I develop some Minecraft mods and server plugins.</p>
-    <p>&emsp;&emsp;I'm looking forward to exchange java technologies with you.</p>
+  <div style="display:flex;text-align:left;" align="left">
+    <p>Well, nice to see you I'm Dioxide.CN, an ordinary java software engineer.</p>
+    <p>I have been focusing on Spring Framework development, android development and SpringCloud technologies for nearly 3 years.</p>
+    <p>In my free time, I develop some Minecraft mods and server plugins.</p>
+    <p>I'm looking forward to exchange java technologies with you.</p>
   </div>
  
   <!-- ########################################## 分割 ########################################## -->
