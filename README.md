@@ -5,11 +5,12 @@
   ### About me
   
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-  <p>&emsp;&emsp;Well, nice to see you I'm Dioxide.CN, an ordinary java software engineer.</p>
-  <p>&emsp;&emsp;I have been focusing on Spring Framework development, android development and SpringCloud technologies for nearly 3 years.</p>
-  <p>&emsp;&emsp;In my free time, I develop some Minecraft mods and server plugins.</p>
-  <p>&emsp;&emsp;I'm looking forward to exchange java technologies with you.</p>
+  <div style="display:flex;text-align:left;">
+    <p>&emsp;&emsp;Well, nice to see you I'm Dioxide.CN, an ordinary java software engineer.</p>
+    <p>&emsp;&emsp;I have been focusing on Spring Framework development, android development and SpringCloud technologies for nearly 3 years.</p>
+    <p>&emsp;&emsp;In my free time, I develop some Minecraft mods and server plugins.</p>
+    <p>&emsp;&emsp;I'm looking forward to exchange java technologies with you.</p>
+  </div>
  
   <!-- ########################################## 分割 ########################################## -->
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -33,6 +34,9 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+  
+  <br>
+  
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
   
   <!-- ########################################## 分割 ########################################## -->
