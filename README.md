@@ -49,7 +49,23 @@
   [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mordor171&custom_title=Time%20for%20work&hide_border=true&theme=xcode)](https://github.com/Mordor171)
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     46 mins             █████████████████████████   100.0% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+IntelliJ                 46 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  46 mins             █████████████████████████   100.0%
+
+```
+
+
+<!--END_SECTION:waka-->
   
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </div>
