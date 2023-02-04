@@ -46,7 +46,7 @@
   <!-- ########################################## 分割 ########################################## -->
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   
-  [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mordor171&custom_title=This%20is%20a%20title&hide_border=true&theme=xcode)](https://github.com/Mordor171)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mordor171&custom_title=Time%20for%20work&hide_border=true&theme=xcode)](https://github.com/Mordor171)
   
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
