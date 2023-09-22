@@ -1,12 +1,10 @@
 <div align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mordor171&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
   ### About me
   
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
   <div style="display:flex;text-align:left;" align="left">
-    <p>Well, nice to see you I'm Dioxide.CN, an ordinary java software engineer.</p>
+    <p>Hi there, nice to see you I'm Dioxide.CN, an ordinary java software engineer.</p>
     <p>I have been focusing on Spring Framework development, android development and SpringCloud technologies for nearly 3 years.</p>
     <p>In my free time, I develop some Minecraft mods and server plugins.</p>
     <p>I'm looking forward to exchange java technologies with you.</p>
@@ -45,8 +43,6 @@
   
   <!-- ########################################## 分割 ########################################## -->
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-  
-  [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mordor171&custom_title=Time%20for%20work&hide_border=true&theme=xcode)](https://github.com/Mordor171)
   
   <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
